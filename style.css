@@ -1,0 +1,28 @@
+body{
+    background-color: white;
+}
+
+img{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+}
+
+.card-img{
+    width:auto;
+    height:250px;
+    border-radius: none;
+}
+
+
+ul li{
+    list-style: none;
+    display: inline-block;
+  
+}
+
+.cardd-image{
+    width: 547px;
+    height: 250px;
+    border-radius: 0;
+}
